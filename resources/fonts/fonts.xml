@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+        <font id="myfonts" filename="myFont.fnt"/>
+    </fonts>
+</resources>
