@@ -2,6 +2,7 @@ using Toybox.WatchUi;
 using Toybox.Graphics;
 using Toybox.System;
 using Toybox.Lang;
+using Toybox.System as Sys;
 
 class BigNumbersJGLView extends WatchUi.WatchFace {
 	
@@ -16,9 +17,7 @@ class BigNumbersJGLView extends WatchUi.WatchFace {
 
     // Load your resources here
     function onLayout(dc) {
-        // cycle loop, for status
-        loop++;
-        loop = loop % 4;
+       
         
         //setLayout(Rez.Layouts.WatchFace(dc));
         myfonts=WatchUi.loadResource(Rez.Fonts.myfonts);
@@ -36,32 +35,28 @@ class BigNumbersJGLView extends WatchUi.WatchFace {
 
     // Update the view
     function onUpdate(dc) {
+        // cycle loop, for status
+        loop++;
+        loop = loop % 4;
+    
         dc.setColor(dc.COLOR_BLACK,dc.COLOR_BLACK);
         dc.clear();
         
         // Get and show the current time
         var clockTime = System.getClockTime();
-        /*dc.setColor(dc.COLOR_WHITE,dc.COLOR_BLACK);
-        dc.drawText(dc.getWidth()/2, 50,myfonts,Lang.format("$1$",[clockTime.hour]),dc.TEXT_JUSTIFY_RIGHT);
-        dc.setColor(dc.COLOR_YELLOW,dc.COLOR_BLACK);
-        dc.drawText(dc.getWidth()/2, 50,myfonts,Lang.format("$1$",[clockTime.min.format("%02d")]),dc.TEXT_JUSTIFY_LEFT);*/
-        
+       
         // Call the parent onUpdate function to redraw the layout
         // View.onUpdate(dc);
-        
-        // show time
-        //Time.drawText(dc, cx, cy);
-        
+         
          // show time
-        Time.drawText(dc, cx, cy);
-        //System.println("Estoy en 0040");
-        
+        Time.drawText(dc, cx, cy);        
         
         // draw battery
         Battery.drawArc(dc, cx, cy);
         
          // show date
-        Date.drawText(dc, cx, 35);
+        //Date.drawText(dc, cx, 35);
+        Date.drawText(dc, cx, 25);
         
         // are alarms ON
        // if (Alarms.areAlarms()) {
@@ -70,12 +65,13 @@ class BigNumbersJGLView extends WatchUi.WatchFace {
         
         // write heart rate
         if (HeartRate.hrON()) {
-             HeartRate.drawText(dc, cx, cy);
+           //HeartRate.drawText(dc, cx-5, cy-10);
+             HeartRate.drawText(dc, cx, cy-15);
         }
         
          // show status
-        Status.drawText(dc, cx, cy, loop);
-        
+        // Status.drawText(dc, cx, cy, loop);
+        Status.drawText(dc, cx, cy);
     }
 
     // Called when this View is removed from the screen. Save the

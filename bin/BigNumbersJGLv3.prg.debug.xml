@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="4" lineNum="19" pc="268435479" symbol="onLayout"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="4" lineNum="23" pc="268435483" symbol="onLayout"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="4" lineNum="26" pc="268435526" symbol="onLayout"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="4" lineNum="27" pc="268435551" symbol="onLayout"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="5" lineNum="33" pc="268435577" symbol="onShow"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="37" pc="268435582" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="39" pc="268435586" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="40" pc="268435605" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="42" pc="268435627" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="43" pc="268435655" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="46" pc="268435667" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="52" pc="268435684" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="55" pc="268435720" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="59" pc="268435756" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="67" pc="268435789" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="69" pc="268435809" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="6" lineNum="74" pc="268435854" symbol="onUpdate"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="7" lineNum="80" pc="268435891" symbol="onHide"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="8" lineNum="84" pc="268435896" symbol="onExitSleep"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLView.mc" id="9" lineNum="88" pc="268435901" symbol="onEnterSleep"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="16" pc="268435906" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="18" pc="268435918" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="19" pc="268435959" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="21" pc="268435995" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="22" pc="268436012" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="24" pc="268436043" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="25" pc="268436067" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="27" pc="268436091" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="31" pc="268436108" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="35" pc="268436142" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="36" pc="268436142" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="37" pc="268436167" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="40" pc="268436204" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="43" pc="268436208" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="45" pc="268436269" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="46" pc="268436269" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="47" pc="268436294" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="50" pc="268436358" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="54" pc="268436362" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="58" pc="268436385" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="61" pc="268436443" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="65" pc="268436466" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="68" pc="268436533" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="72" pc="268436556" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="75" pc="268436629" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="11" lineNum="78" pc="268436652" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="12" lineNum="81" pc="268436726" symbol="getHeight"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="12" lineNum="82" pc="268436738" symbol="getHeight"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="12" lineNum="84" pc="268436751" symbol="getHeight"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="12" lineNum="85" pc="268436759" symbol="getHeight"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="12" lineNum="88" pc="268436766" symbol="getHeight"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="91" pc="268436770" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="92" pc="268436782" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="94" pc="268436805" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="96" pc="268436824" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="97" pc="268436850" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="99" pc="268436871" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="101" pc="268436887" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="102" pc="268436906" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="105" pc="268436922" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="106" pc="268436960" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="108" pc="268436976" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="127" pc="268436989" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="129" pc="268437033" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="13" lineNum="134" pc="268437069" symbol="drawDigit"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="14" lineNum="138" pc="268437127" symbol="genRandom"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="14" lineNum="139" pc="268437139" symbol="genRandom"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="14" lineNum="140" pc="268437170" symbol="genRandom"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Time.mc" id="14" lineNum="141" pc="268437190" symbol="genRandom"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="16" lineNum="5" pc="268437194" symbol="initialize"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="16" lineNum="6" pc="268437198" symbol="initialize"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="17" lineNum="10" pc="268437217" symbol="onStart"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="18" lineNum="14" pc="268437222" symbol="onStop"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="19" lineNum="18" pc="268437227" symbol="getInitialView"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/BigNumbersJGLApp.mc" id="19" lineNum="19" pc="268437231" symbol="getInitialView"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Alarms.mc" id="21" lineNum="9" pc="268437269" symbol="drawIcon"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Alarms.mc" id="21" lineNum="10" pc="268437281" symbol="drawIcon"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Alarms.mc" id="22" lineNum="13" pc="268437306" symbol="areAlarms"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Alarms.mc" id="22" lineNum="14" pc="268437318" symbol="areAlarms"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Alarms.mc" id="22" lineNum="7" pc="268441110" symbol="&lt;init&gt;"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="8" pc="268437347" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="9" pc="268437359" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="11" pc="268437366" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="12" pc="268437386" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="13" pc="268437393" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="14" pc="268437406" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="19" pc="268437471" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="20" pc="268437482" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="22" pc="268437521" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="23" pc="268437532" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="25" pc="268437571" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="26" pc="268437582" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="29" pc="268437621" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="32" pc="268437662" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="34" pc="268437675" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="35" pc="268437700" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="36" pc="268437704" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="37" pc="268437724" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="39" pc="268437740" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="40" pc="268437764" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="41" pc="268437787" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="24" lineNum="42" pc="268437829" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="25" lineNum="46" pc="268437856" symbol="hrON"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/HeartRate.mc" id="25" lineNum="47" pc="268437868" symbol="hrON"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="6" pc="268437882" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="7" pc="268437894" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="8" pc="268437911" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="10" pc="268437947" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="12" pc="268437960" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="13" pc="268437971" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="14" pc="268437988" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="16" pc="268438027" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="17" pc="268438038" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="18" pc="268438055" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="21" pc="268438094" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="22" pc="268438110" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="27" lineNum="23" pc="268438121" symbol="drawArc"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="28" lineNum="27" pc="268438189" symbol="getBattery"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Battery.mc" id="28" lineNum="28" pc="268438201" symbol="getBattery"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="10" pc="268438224" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="12" pc="268438236" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="13" pc="268438253" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="14" pc="268438284" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="16" pc="268438344" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Date.mc" id="30" lineNum="17" pc="268438385" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="32" lineNum="10" pc="268438441" symbol="drawIcon"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="32" lineNum="11" pc="268438453" symbol="drawIcon"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="33" lineNum="14" pc="268438478" symbol="isDND"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="33" lineNum="15" pc="268438490" symbol="isDND"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="33" lineNum="16" pc="268438514" symbol="isDND"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="33" lineNum="18" pc="268438539" symbol="isDND"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="34" lineNum="22" pc="268438542" symbol="isSleepy"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="34" lineNum="23" pc="268438554" symbol="isSleepy"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="34" lineNum="25" pc="268438571" symbol="isSleepy"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/DoNotDisturb.mc" id="34" lineNum="8" pc="268441047" symbol="&lt;init&gt;"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="36" lineNum="16" pc="268438581" symbol="getSteps"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="36" lineNum="17" pc="268438593" symbol="getSteps"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="37" lineNum="20" pc="268438609" symbol="getStepsGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="37" lineNum="21" pc="268438621" symbol="getStepsGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="38" lineNum="24" pc="268438637" symbol="getStepsColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="38" lineNum="25" pc="268438649" symbol="getStepsColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="39" lineNum="30" pc="268438663" symbol="getActive"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="39" lineNum="31" pc="268438675" symbol="getActive"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="39" lineNum="33" pc="268438692" symbol="getActive"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="36" pc="268438708" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="37" pc="268438720" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="39" pc="268438737" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="40" pc="268438753" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="41" pc="268438764" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="40" lineNum="45" pc="268438774" symbol="getActiveGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="41" lineNum="48" pc="268438778" symbol="getActiveColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="41" lineNum="49" pc="268438790" symbol="getActiveColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="54" pc="268438804" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="55" pc="268438816" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="57" pc="268438833" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="58" pc="268438843" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="59" pc="268438854" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="42" lineNum="62" pc="268438864" symbol="getCalories"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="65" pc="268438868" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="66" pc="268438880" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="67" pc="268438887" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="69" pc="268438904" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="70" pc="268438934" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="71" pc="268438958" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="73" pc="268438965" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="76" pc="268438991" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="78" pc="268439007" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="79" pc="268439018" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="82" pc="268439028" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="43" lineNum="85" pc="268439034" symbol="getCaloriesGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="44" lineNum="89" pc="268439041" symbol="getCaloriesColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="44" lineNum="90" pc="268439053" symbol="getCaloriesColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="45" lineNum="95" pc="268439067" symbol="getFloors"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="45" lineNum="96" pc="268439079" symbol="getFloors"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="46" lineNum="99" pc="268439095" symbol="getFloorsGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="46" lineNum="100" pc="268439107" symbol="getFloorsGoal"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="47" lineNum="103" pc="268439123" symbol="getFloorsColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Goals.mc" id="47" lineNum="104" pc="268439135" symbol="getFloorsColor"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="49" lineNum="10" pc="268439149" symbol="getFont"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="49" lineNum="11" pc="268439161" symbol="getFont"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="49" lineNum="12" pc="268439174" symbol="getFont"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="49" lineNum="16" pc="268439220" symbol="getFont"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="19" pc="268439230" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="20" pc="268439242" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="22" pc="268439262" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="25" pc="268439278" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="27" pc="268439298" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Utils.mc" id="50" lineNum="30" pc="268439314" symbol="getColorMode"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="12" pc="268439328" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="14" pc="268439340" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="17" pc="268439357" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="18" pc="268439364" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="19" pc="268439371" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="20" pc="268439378" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="21" pc="268439385" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="22" pc="268439392" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="32" pc="268439399" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="35" pc="268439436" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="36" pc="268439455" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="37" pc="268439496" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="38" pc="268439533" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="42" pc="268439548" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="43" pc="268439575" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="44" pc="268439616" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="47" pc="268439680" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="48" pc="268439699" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="49" pc="268439706" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="50" pc="268439747" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="51" pc="268439784" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="52" pc="268439799" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="53" pc="268439826" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="54" pc="268439867" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="57" pc="268439931" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="58" pc="268439968" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="59" pc="268439975" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="60" pc="268440016" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="61" pc="268440053" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="62" pc="268440068" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="63" pc="268440095" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="64" pc="268440136" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="67" pc="268440200" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="68" pc="268440237" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="69" pc="268440244" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="70" pc="268440285" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="71" pc="268440322" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="72" pc="268440337" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="73" pc="268440364" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="74" pc="268440405" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="76" pc="268440469" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="77" pc="268440473" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="52" lineNum="78" pc="268440478" symbol="drawText"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="84" pc="268440495" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="85" pc="268440507" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="86" pc="268440518" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="87" pc="268440529" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="89" pc="268440566" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="90" pc="268440577" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="91" pc="268440588" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="94" pc="268440628" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="98" pc="268440641" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="99" pc="268440662" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="101" pc="268440680" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="102" pc="268440707" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="103" pc="268440712" symbol="simple"/>
+        <entry filename="/home/jjgonz/eclipse-workspace/BigNumbersJGLv3/source/Status.mc" id="53" lineNum="105" pc="268440750" symbol="simple"/>
+        <entry filename="Rez" id="59" lineNum="22" pc="268440754" symbol="WatchFace"/>
+        <entry filename="Rez" id="59" lineNum="24" pc="268440766" symbol="WatchFace"/>
+        <entry filename="Rez" id="59" lineNum="26" pc="268440929" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="16" module="true" symbol="globals/DoNotDisturb"/>
+        <entry field="true" id="57" symbol="text_width_digit"/>
+        <entry id="25" module="true" symbol="Goals"/>
+        <entry id="10" module="true" symbol="globals/Goals"/>
+        <entry id="44" method="true" symbol="getStepsColor"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="17" module="true" symbol="globals/Alarms"/>
+        <entry id="46" method="true" symbol="getActiveGoal"/>
+        <entry field="true" id="8389795" symbol="doNotDisturb"/>
+        <entry id="42" method="true" symbol="getSteps"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="14" module="true" symbol="globals/Date"/>
+        <entry id="28" method="true" symbol="getBattery"/>
+        <entry id="53" method="true" symbol="getFloorsColor"/>
+        <entry id="21" module="true" symbol="HeartRate"/>
+        <entry field="true" id="36" symbol="alarms"/>
+        <entry field="true" id="41" symbol="AppName"/>
+        <entry id="50" method="true" symbol="getCaloriesColor"/>
+        <entry id="62" method="true" symbol="simple"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="52" method="true" symbol="getFloorsGoal"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="8388912" symbol="steps"/>
+        <entry field="true" id="32" symbol="loop"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="43" method="true" symbol="getStepsGoal"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry id="2" module="true" symbol="globals/Battery"/>
+        <entry field="true" id="8389874" symbol="floorsClimbedGoal"/>
+        <entry field="true" id="29" symbol="myfonts"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8389687" method="true" symbol="drawArc"/>
+        <entry id="61" method="true" symbol="hrON"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="globals/Time"/>
+        <entry id="48" method="true" symbol="getCalories"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="35" module="true" symbol="Menus"/>
+        <entry id="66" method="true" symbol="areAlarms"/>
+        <entry field="true" id="38" symbol="move"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389869" symbol="activeMinutesWeek"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="23" module="true" symbol="Date"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="20" module="true" symbol="Alarms"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="31" symbol="cy"/>
+        <entry field="true" id="30" symbol="cx"/>
+        <entry field="true" id="33" symbol="active"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8391710" symbol="bitmap"/>
+        <entry id="27" module="true" symbol="Status"/>
+        <entry id="59" method="true" symbol="drawDigit"/>
+        <entry id="63" method="true" symbol="drawIcon"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="49" method="true" symbol="getCaloriesGoal"/>
+        <entry field="true" id="39" symbol="floors"/>
+        <entry id="56" method="true" symbol="getColorMode"/>
+        <entry id="55" method="true" symbol="getFont"/>
+        <entry id="8389116" method="true" symbol="getHeight"/>
+        <entry field="true" id="8389871" symbol="activeMinutesWeekGoal"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="18" object="true" symbol="BigNumbersJGLView"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="58" symbol="text_height_digit"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="45" method="true" symbol="getActive"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="40" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="51" method="true" symbol="getFloors"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="22" module="true" symbol="Battery"/>
+        <entry field="true" id="8389872" symbol="floorsClimbed"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="37" symbol="dnd"/>
+        <entry id="26" module="true" symbol="Utils"/>
+        <entry id="60" method="true" symbol="genRandom"/>
+        <entry id="11" module="true" symbol="globals/Utils"/>
+        <entry id="65" method="true" symbol="isSleepy"/>
+        <entry id="8389190" method="true" symbol="drawText"/>
+        <entry id="47" method="true" symbol="getActiveColor"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="19" object="true" symbol="BigNumbersJGLApp"/>
+        <entry id="64" method="true" symbol="isDND"/>
+        <entry field="true" id="54" symbol="myFont"/>
+        <entry id="34" module="true" symbol="Layouts"/>
+        <entry id="8389701" object="true" symbol="HeartRateIterator"/>
+        <entry id="15" module="true" symbol="globals/Status"/>
+        <entry id="13" module="true" symbol="globals/HeartRate"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="24" module="true" symbol="DoNotDisturb"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435577" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435890" name="clockTime" stackId="2" startPc="268435586"/>
+        <entry arg="true" endPc="268435891" name="dc" stackId="1" startPc="268435582"/>
+        <entry endPc="268436725" name="caloriesPercent" stackId="11" startPc="268435918"/>
+        <entry endPc="268436725" name="stepsPercent" stackId="9" startPc="268435918"/>
+        <entry endPc="268436725" name="info" stackId="8" startPc="268435918"/>
+        <entry endPc="268436725" name="date" stackId="5" startPc="268435918"/>
+        <entry endPc="268436725" name="floorsPercent" stackId="10" startPc="268435918"/>
+        <entry endPc="268436725" name="hourString" stackId="6" startPc="268435918"/>
+        <entry endPc="268436725" name="minuteString" stackId="7" startPc="268435918"/>
+        <entry endPc="268436725" name="activePercent" stackId="12" startPc="268435918"/>
+        <entry endPc="268436725" name="text" stackId="13" startPc="268435918"/>
+        <entry endPc="268436725" name="moment" stackId="4" startPc="268435918"/>
+        <entry arg="true" endPc="268436726" name="cx" stackId="2" startPc="268435906"/>
+        <entry arg="true" endPc="268436726" name="dc" stackId="1" startPc="268435906"/>
+        <entry arg="true" endPc="268436726" name="cy" stackId="3" startPc="268435906"/>
+        <entry endPc="268436769" name="r" stackId="3" startPc="268436738"/>
+        <entry arg="true" endPc="268436770" name="goal" stackId="2" startPc="268436726"/>
+        <entry arg="true" endPc="268436770" name="value" stackId="1" startPc="268436726"/>
+        <entry endPc="268437126" name="limit" stackId="7" startPc="268436782"/>
+        <entry endPc="268437126" name="font" stackId="8" startPc="268436782"/>
+        <entry endPc="268437126" name="water_line" stackId="9" startPc="268436782"/>
+        <entry endPc="268437126" name="diff" stackId="11" startPc="268436782"/>
+        <entry endPc="268437126" name="colorBack" stackId="10" startPc="268436782"/>
+        <entry arg="true" endPc="268437127" name="x" stackId="2" startPc="268436770"/>
+        <entry arg="true" endPc="268437127" name="dc" stackId="1" startPc="268436770"/>
+        <entry arg="true" endPc="268437127" name="color" stackId="6" startPc="268436770"/>
+        <entry arg="true" endPc="268437127" name="value" stackId="5" startPc="268436770"/>
+        <entry arg="true" endPc="268437127" name="text" stackId="4" startPc="268436770"/>
+        <entry arg="true" endPc="268437127" name="y" stackId="3" startPc="268436770"/>
+        <entry endPc="268437193" name="r" stackId="2" startPc="268437139"/>
+        <entry arg="true" endPc="268437194" name="max" stackId="1" startPc="268437127"/>
+        <entry arg="true" endPc="268437222" name="state" stackId="1" startPc="268437217"/>
+        <entry arg="true" endPc="268437227" name="state" stackId="1" startPc="268437222"/>
+        <entry arg="true" endPc="268437306" name="x" stackId="2" startPc="268437269"/>
+        <entry arg="true" endPc="268437306" name="dc" stackId="1" startPc="268437269"/>
+        <entry arg="true" endPc="268437306" name="y" stackId="3" startPc="268437269"/>
+        <entry endPc="268437468" name="hr" stackId="6" startPc="268437393"/>
+        <entry endPc="268437842" name="char" stackId="11" startPc="268437764"/>
+        <entry endPc="268437855" name="i" stackId="10" startPc="268437764"/>
+        <entry endPc="268437855" name="coordY" stackId="9" startPc="268437359"/>
+        <entry endPc="268437855" name="hStr" stackId="7" startPc="268437359"/>
+        <entry endPc="268437855" name="heart_rate" stackId="4" startPc="268437359"/>
+        <entry endPc="268437855" name="hrIter" stackId="5" startPc="268437359"/>
+        <entry endPc="268437855" name="fH" stackId="8" startPc="268437359"/>
+        <entry arg="true" endPc="268437856" name="cx" stackId="2" startPc="268437347"/>
+        <entry arg="true" endPc="268437856" name="dc" stackId="1" startPc="268437347"/>
+        <entry arg="true" endPc="268437856" name="cy" stackId="3" startPc="268437347"/>
+        <entry endPc="268438188" name="battery" stackId="4" startPc="268437894"/>
+        <entry endPc="268438188" name="angle_battery" stackId="5" startPc="268437894"/>
+        <entry arg="true" endPc="268438189" name="cx" stackId="2" startPc="268437882"/>
+        <entry arg="true" endPc="268438189" name="dc" stackId="1" startPc="268437882"/>
+        <entry arg="true" endPc="268438189" name="cy" stackId="3" startPc="268437882"/>
+        <entry endPc="268438440" name="dateStr" stackId="6" startPc="268438236"/>
+        <entry endPc="268438440" name="date" stackId="5" startPc="268438236"/>
+        <entry endPc="268438440" name="moment" stackId="4" startPc="268438236"/>
+        <entry arg="true" endPc="268438441" name="x" stackId="2" startPc="268438224"/>
+        <entry arg="true" endPc="268438441" name="dc" stackId="1" startPc="268438224"/>
+        <entry arg="true" endPc="268438441" name="y" stackId="3" startPc="268438224"/>
+        <entry arg="true" endPc="268438478" name="x" stackId="2" startPc="268438441"/>
+        <entry arg="true" endPc="268438478" name="dc" stackId="1" startPc="268438441"/>
+        <entry arg="true" endPc="268438478" name="y" stackId="3" startPc="268438441"/>
+        <entry endPc="268438580" name="info" stackId="1" startPc="268438554"/>
+        <entry endPc="268438707" name="info" stackId="1" startPc="268438675"/>
+        <entry endPc="268438777" name="r" stackId="2" startPc="268438720"/>
+        <entry endPc="268438777" name="info" stackId="1" startPc="268438720"/>
+        <entry endPc="268438867" name="info" stackId="1" startPc="268438816"/>
+        <entry endPc="268438867" name="cals" stackId="2" startPc="268438816"/>
+        <entry endPc="268438978" name="hist" stackId="4" startPc="268438958"/>
+        <entry endPc="268438991" name="i" stackId="3" startPc="268438958"/>
+        <entry endPc="268439031" name="cG" stackId="5" startPc="268438934"/>
+        <entry endPc="268439040" name="history" stackId="2" startPc="268438880"/>
+        <entry endPc="268439040" name="calGoal" stackId="1" startPc="268438880"/>
+        <entry endPc="268440494" name="calc4" stackId="10" startPc="268439340"/>
+        <entry endPc="268440494" name="calc3" stackId="9" startPc="268439340"/>
+        <entry endPc="268440494" name="unit" stackId="6" startPc="268439340"/>
+        <entry endPc="268440494" name="bitmap" stackId="11" startPc="268439340"/>
+        <entry endPc="268440494" name="calc2" stackId="8" startPc="268439340"/>
+        <entry endPc="268440494" name="calc1" stackId="7" startPc="268439340"/>
+        <entry endPc="268440494" name="info" stackId="4" startPc="268439340"/>
+        <entry endPc="268440494" name="msg" stackId="5" startPc="268439340"/>
+        <entry arg="true" endPc="268440495" name="cx" stackId="2" startPc="268439328"/>
+        <entry arg="true" endPc="268440495" name="dc" stackId="1" startPc="268439328"/>
+        <entry arg="true" endPc="268440495" name="cy" stackId="3" startPc="268439328"/>
+        <entry endPc="268440753" name="pos" stackId="2" startPc="268440507"/>
+        <entry arg="true" endPc="268440754" name="msg" stackId="1" startPc="268440495"/>
+        <entry endPc="268440946" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268440766"/>
+        <entry arg="true" endPc="268440947" name="dc" stackId="1" startPc="268440754"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="159" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="294" parentId="globals" symbolId="Battery" type="module"/>
+        <dataEntry offset="341" parentId="globals" symbolId="BigNumbersJGLView" type="class"/>
+        <dataEntry offset="476" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="555" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="642" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="673" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="712" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="751" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="782" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="821" parentId="globals" symbolId="Goals" type="module"/>
+        <dataEntry offset="948" parentId="globals" symbolId="Utils" type="module"/>
+        <dataEntry offset="1003" parentId="globals" symbolId="Time" type="module"/>
+        <dataEntry offset="1082" parentId="globals" symbolId="HeartRate" type="module"/>
+        <dataEntry offset="1129" parentId="globals" symbolId="Date" type="module"/>
+        <dataEntry offset="1168" parentId="globals" symbolId="Status" type="module"/>
+        <dataEntry offset="1215" parentId="globals" symbolId="DoNotDisturb" type="module"/>
+        <dataEntry offset="1278" parentId="globals" symbolId="BigNumbersJGLApp" type="class"/>
+        <dataEntry offset="1349" parentId="globals" symbolId="Alarms" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BigNumbersJGLView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="BigNumbersJGLView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="BigNumbersJGLView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BigNumbersJGLView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="BigNumbersJGLView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="BigNumbersJGLView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="BigNumbersJGLView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawText" parent="Time">
+            <param id="dc"/>
+            <param id="cx"/>
+            <param id="cy"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getHeight" parent="Time">
+            <param id="value"/>
+            <param id="goal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDigit" parent="Time">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="text"/>
+            <param id="value"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="genRandom" parent="Time">
+            <param id="max"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BigNumbersJGLApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="BigNumbersJGLApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="BigNumbersJGLApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="BigNumbersJGLApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawIcon" parent="Alarms">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="areAlarms" parent="Alarms">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawText" parent="HeartRate">
+            <param id="dc"/>
+            <param id="cx"/>
+            <param id="cy"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="hrON" parent="HeartRate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawArc" parent="Battery">
+            <param id="dc"/>
+            <param id="cx"/>
+            <param id="cy"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getBattery" parent="Battery">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawText" parent="Date">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawIcon" parent="DoNotDisturb">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDND" parent="DoNotDisturb">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isSleepy" parent="DoNotDisturb">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSteps" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getStepsGoal" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getStepsColor" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getActive" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getActiveGoal" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getActiveColor" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCalories" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCaloriesGoal" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCaloriesColor" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFloors" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFloorsGoal" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFloorsColor" parent="Goals">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getFont" parent="Utils">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getColorMode" parent="Utils">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawText" parent="Status">
+            <param id="dc"/>
+            <param id="cx"/>
+            <param id="cy"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="simple" parent="Status">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

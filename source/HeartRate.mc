@@ -34,8 +34,7 @@ module HeartRate {
         var fH = dc.getFontHeight(Gfx.FONT_SYSTEM_MEDIUM);
         var coordY = cy;
         if (hStr.length() > 2) {
-            //coordY = cy - fH + 10;
-            coordY = cy - fH;
+           coordY = cy - fH + 10;
         }
         for( var i = 0; i < hStr.length(); i++ ) {
             var char = hStr.substring(i, i + 1);

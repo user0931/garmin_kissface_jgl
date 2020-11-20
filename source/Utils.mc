@@ -18,10 +18,13 @@ module Utils {
     
     function getColorMode() {
 		if (DoNotDisturb.isDND()) {
-	        return Gfx.COLOR_DK_GRAY;
+	        //return Gfx.COLOR_DK_GRAY;
+	        return Gfx.COLOR_WHITE;
+	        
 		}
 		else if (DoNotDisturb.isSleepy()) {
-	        return Gfx.COLOR_LT_GRAY;
+	        //return Gfx.COLOR_LT_GRAY;
+	        return Gfx.COLOR_WHITE;
 		}
 		else {
 	        return Gfx.COLOR_WHITE;
